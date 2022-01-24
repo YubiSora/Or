@@ -1,0 +1,6 @@
+/*
+Support Twitter OrcaTyne
+
+
+Yang jual sc ini anak haram
+*/
