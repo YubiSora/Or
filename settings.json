@@ -1,0 +1,21 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": false,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": false,
+	"auto_welcome_msg": false,
+	"auto_leave_msg": false,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6289674545497",
+	"ownerNumberr": "62895613027623",
+	"cr": "@OrcaBot",
+	"ownername": "Orcinus",
+	"botname":"OrcaBot",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"fake": " 「  ORCABOT  」\nCreated By @OrcaBot"
+}
