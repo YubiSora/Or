@@ -3457,7 +3457,7 @@ break
 					fs.unlinkSync(mediaa)
 					if (err) return reply('Yah gagal, coba ulangi ^_^')
 					buffer = fs.readFileSync(ran)
-					fakethumb(buffer,'Webp To Image')
+					fakethumb(buffer,'Follow Twitter @OrcaTyne')
 					fs.unlinkSync(ran)
 					})
 					await limitAdd(sender, limit)}
