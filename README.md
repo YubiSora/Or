@@ -28,8 +28,8 @@
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": false,
-	"auto_welcome_msg": true,
-	"auto_leave_msg": true,
+	"auto_welcome_msg": false,
+	"auto_leave_msg": false,
 	"prefix": ".",
 	"language":"ind",
 	"ownerNumber": "6289674545497",
@@ -40,6 +40,7 @@
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
+	"donasi":"donasi.jpg",
 	"fake": " 「  ORCABOT  」\nCreated By @OrcaBot"
 }
 
